@@ -37,14 +37,14 @@ Managing concurrent deliverables
 
 Tracking risks
 
-
-<img width="796" height="401" alt="image" src="https://github.com/user-attachments/assets/fa147c38-1767-4a87-95de-14f6300a147e" />
-
-<img width="797" height="400" alt="image" src="https://github.com/user-attachments/assets/ebb26c68-1e71-47fd-9417-1ef358117293" />
-
-
 Capacity forecasting
 
 Executive reporting
 
 Delivery monitoring
+
+
+
+<img width="796" height="401" alt="image" src="https://github.com/user-attachments/assets/fa147c38-1767-4a87-95de-14f6300a147e" />
+
+<img width="797" height="400" alt="image" src="https://github.com/user-attachments/assets/ebb26c68-1e71-47fd-9417-1ef358117293" />
